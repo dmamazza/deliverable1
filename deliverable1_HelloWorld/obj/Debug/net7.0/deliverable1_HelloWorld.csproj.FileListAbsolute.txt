@@ -1,0 +1,15 @@
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/bin/Debug/net7.0/deliverable1_HelloWorld
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/bin/Debug/net7.0/deliverable1_HelloWorld.deps.json
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/bin/Debug/net7.0/deliverable1_HelloWorld.runtimeconfig.json
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/bin/Debug/net7.0/deliverable1_HelloWorld.dll
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/bin/Debug/net7.0/deliverable1_HelloWorld.pdb
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net7.0/deliverable1_HelloWorld.csproj.AssemblyReference.cache
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net7.0/deliverable1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net7.0/deliverable1_HelloWorld.AssemblyInfoInputs.cache
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net7.0/deliverable1_HelloWorld.AssemblyInfo.cs
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net7.0/deliverable1_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net7.0/deliverable1_HelloWorld.dll
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net7.0/refint/deliverable1_HelloWorld.dll
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net7.0/deliverable1_HelloWorld.pdb
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net7.0/deliverable1_HelloWorld.genruntimeconfig.cache
+/Users/dominiquemamazza/Projects/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net7.0/ref/deliverable1_HelloWorld.dll
